@@ -8,7 +8,7 @@ export default function Projects() {
       <>
         Investigated how differences in government structure influence economic performance across U.S. states.
         Conducted statistical analysis with R, utilizing Hypothesis Testing, Multivariate Analysis of Variance (ANOVA),
-        and Principal Component Analysis. Published a preprint on{" "}
+        and Principal Component Analysis. I published a preprint on{" "}
         <a
           href="https://hal.science/hal-04705339"
           target="_blank"
@@ -27,7 +27,7 @@ export default function Projects() {
       subtitle: "Research Assistant | Indiana University School of Medicine",
       period: "2023–2025",
       description:
-        "Developed statistical and computational models linking dietary patterns to chronic disease outcomes. Combined health data, nutritional metrics, and algorithmic approaches to identify patient specific risks for chronic diseases. I presented work at the International Conference on Intelligent Biology and Medicine (ICIBM 2024).",
+        "Developed statistical and computational models linking dietary patterns to chronic disease outcomes. Combined health data, nutritional metrics, and algorithmic approaches to identify patient specific risks for chronic diseases. I presented my work at the International Conference on Intelligent Biology and Medicine (ICIBM 2024).",
       tags: ["Statistics", "Machine Learning", "Bioinformatics", "R", "Python"],
     },
   ];
