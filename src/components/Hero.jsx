@@ -14,7 +14,7 @@ export default function Hero() {
       </h1>
 
       <p className="text-xl md:text-2xl mb-4 max-w-2xl text-slate-200">
-        Turning data into insight and technology into impact
+        Turning data and technology into insight and impact
       </p>
 
       <p
