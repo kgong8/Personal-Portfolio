@@ -7,7 +7,7 @@ function About() {
       <h2 className="text-3xl font-bold mb-6">About Me</h2>
 
       <p className="text-lg leading-relaxed mb-4">
-        Hi! I'm Kellen Gong, a first-year student at Yale University pursuing 
+        Hi! I'm Kellen Gong, a first-year student at Yale University pursuing degrees in
         Statistics & Data Science and Computer Science. I am interested in the intersection between Statistics and Computer Science 
         in helping to solve real-world problems. My experience spans 
         statistical modeling, programming, blockchain analysis, and financial technology.
