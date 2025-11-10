@@ -15,8 +15,8 @@ function About() {
 
       <p className="text-lg leading-relaxed mb-4">
         Beyond the classroom, I am interested in the world of decentralized finance and other emerging technologies which I conduct research in through 
-        the Yale Blockchain Club. I am also a teacher at Code Haven Yale where I teach 
-        and mentor younger students at local elementary schools in computer science. In addition, I’m an active trader in both stocks 
+        the Yale Blockchain Club. I am also a teacher at Code Haven Yale where I teach computer science
+        to younger students at local elementary schools. In addition, I’m an active trader in both stocks 
         and the blockchain space, using data-driven analysis to make informed investment decisions and better understand market behavior.
       </p>
 
