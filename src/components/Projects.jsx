@@ -27,7 +27,7 @@ export default function Projects() {
       subtitle: "Research Assistant | Indiana University School of Medicine",
       period: "2023–2025",
       description:
-        "Developed statistical and computational models linking dietary patterns to chronic disease outcomes. Combined health data, nutritional metrics, and algorithmic approaches to identify patient specific risks for chronic diseases. Presented work at the International Conference on Intelligent Biology and Medicine (ICIBM 2024).",
+        "Developed statistical and computational models linking dietary patterns to chronic disease outcomes. Combined health data, nutritional metrics, and algorithmic approaches to identify patient specific risks for chronic diseases. I presented work at the International Conference on Intelligent Biology and Medicine (ICIBM 2024).",
       tags: ["Statistics", "Machine Learning", "Bioinformatics", "R", "Python"],
     },
   ];
