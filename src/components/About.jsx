@@ -10,7 +10,7 @@ function About() {
         Hi! I'm Kellen Gong, a first-year student at Yale University pursuing degrees in
         Statistics & Data Science and Computer Science. I am interested in the intersection between Statistics and Computer Science 
         in helping to solve real-world problems. My experience spans 
-        statistical modeling, programming, blockchain analysis, and financial technology.
+        statistical modeling, programming, economic analysis, and bioinformatics.
       </p>
 
       <p className="text-lg leading-relaxed mb-4">
