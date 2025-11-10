@@ -1,7 +1,7 @@
 export default function Projects() {
   const projects = [
     {
-    title: "Divided Government, Unified Economy",
+    title: "Divided Government, Unified Government, and the US Economy",
     subtitle: "Independent Researcher | Statistical Modeling on Governance and Growth",
     period: "2023–2024",
     description: (
